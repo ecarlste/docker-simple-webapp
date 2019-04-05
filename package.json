@@ -1,0 +1,23 @@
+{
+  "name": "docker-simple-webapp",
+  "version": "1.0.0",
+  "description": "Just a simple example of building a Node.js webapp with Docker",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ecarlste/docker-simple-webapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ecarlste/docker-simple-webapp/issues"
+  },
+  "homepage": "https://github.com/ecarlste/docker-simple-webapp#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
